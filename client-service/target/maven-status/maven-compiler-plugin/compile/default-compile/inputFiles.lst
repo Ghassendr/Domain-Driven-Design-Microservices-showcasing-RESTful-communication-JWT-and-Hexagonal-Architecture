@@ -1,0 +1,8 @@
+C:\Users\ghass\ddd\rest\client-service\src\main\java\com\example\client\domain\repository\ProductQueryRepository.java
+C:\Users\ghass\ddd\rest\client-service\src\main\java\com\example\client\infrastructure\persistence\ProductQueryRepositoryAdapter.java
+C:\Users\ghass\ddd\rest\client-service\src\main\java\com\example\client\application\usecase\ListPublishedProductsUseCase.java
+C:\Users\ghass\ddd\rest\client-service\src\main\java\com\example\client\infrastructure\config\RestTemplateConfig.java
+C:\Users\ghass\ddd\rest\client-service\src\main\java\com\example\client\interface_layer\controller\ClientProductController.java
+C:\Users\ghass\ddd\rest\client-service\src\main\java\com\example\client\domain\model\Price.java
+C:\Users\ghass\ddd\rest\client-service\src\main\java\com\example\client\domain\model\ProductView.java
+C:\Users\ghass\ddd\rest\client-service\src\main\java\com\example\client\ClientServiceApplication.java

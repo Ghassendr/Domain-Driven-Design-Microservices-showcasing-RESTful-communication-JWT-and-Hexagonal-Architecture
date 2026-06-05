@@ -1,0 +1,10 @@
+com\example\client\infrastructure\persistence\ProductQueryRepositoryAdapter.class
+com\example\client\domain\model\Price.class
+com\example\client\domain\model\ProductView.class
+com\example\client\infrastructure\config\RestTemplateConfig.class
+com\example\client\domain\repository\ProductQueryRepository.class
+com\example\client\application\usecase\ListPublishedProductsUseCase.class
+com\example\client\domain\model\ProductView$ProductViewBuilder.class
+com\example\client\infrastructure\persistence\ProductQueryRepositoryAdapter$1.class
+com\example\client\ClientServiceApplication.class
+com\example\client\interface_layer\controller\ClientProductController.class
